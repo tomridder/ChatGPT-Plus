@@ -17,5 +17,4 @@
 
 如果需要的话直接扫码添加本人微信 即可
 
-![]()
-<img src="https://github.com/tomridder/ChatGPT-Plus/blob/main/19951734854622_.pic.jpg" style="zoom:30%;" />
+![](https://github.com/tomridder/ChatGPT-Plus/blob/main/qrcode.pic.jpg)
